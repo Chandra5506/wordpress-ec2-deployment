@@ -1,4 +1,5 @@
 ICT171-Assignment 2
+Cloud Server Project
 
 Cloud-Hosted WordPress Deployment Report
 
