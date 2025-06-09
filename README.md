@@ -155,3 +155,20 @@ ________________________________________
 7. Conclusion
 The cloud-hosted WordPress site for Easy Accounting and Mortgage Services has been successfully deployed using a secure, manually configured EC2 Ubuntu instance. All operations including Apache, MariaDB, DNS, and SSL were completed via CLI and tested for functionality from public browsers.
 
+8. References
+
+Amazon Web Services. (2024).  What is Amazon EC2?  https://aws.amazon.com/ec2/
+
+WordPress.org. (2024). WordPress – Blog tool, publishing platform, and CMS. https://wordpress.org/
+
+DigitalOcean. (2022, March 29). How To Install WordPress with LAMP on Ubuntu 22.04. https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lamp-on-ubuntu-22-04
+
+Let’s Encrypt. (2024). Getting Started. https://letsencrypt.org/getting-started/
+
+GoDaddy. (2023). Manage DNS records. https://au.godaddy.com/help/manage-dns-records-680
+
+Ubuntu. (2023). Install Apache, MySQL, and PHP (LAMP stack) on Ubuntu. https://ubuntu.com/tutorials/install-and-configure-apache#1-overview
+
+Microsoft. (2023). Using SSH to connect to Linux VMs in Azure. https://learn.microsoft.com/en-us/azure/virtual-machines/linux/ssh-from-windows
+
+GitHub Docs. (2024). About README files. https://docs.github.com/en/repositories/working-with-files/managing-files/about-readmes
